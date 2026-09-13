@@ -34,4 +34,4 @@ Após realizar todas as conexões de cabos e ativações de portas, realizei tes
 * **Apresentação em Vídeo:** A gravação e a explicação do tutorial foram realizadas em equipe, onde dividimos os tópicos para a apresentação final do grupo.
 
 [Assista ao Vídeo Completo no YouTube](https://youtu.be/Z2j3y9h8_Ro)
-*(Nota: Minha participação técnica acontece durante a apresentação a partirdo tempo 03:01).*
+*(Nota: Minha participação técnica acontece durante a apresentação a partir do tempo 03:01).*
