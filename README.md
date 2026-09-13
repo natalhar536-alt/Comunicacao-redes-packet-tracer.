@@ -24,13 +24,10 @@ Cada computador recebeu manualmente o seu endereço IP dinâmico e sua respectiv
 ## 🚀 Resultados e Testes de Conexão
 Após realizar todas as conexões de cabos e ativações de portas, realizei testes de envio de pacotes de dados (ICMP) entre computadores de redes diferentes (ex: PC A1 enviando dados para o PC C1). O painel de testes acusou o status de **"Successful"** (Sucesso), comprovando que a comunicação de bastidores funciona perfeitamente.
 
----
-
 ## 📸 Evidências do Projeto
 
 ### Topologia da Rede Funcionando:
-![Painel do Cisco Packet Tracer](Coloque_o_Link_da_Sua_Foto_Aqui)
-
+<img width="1912" height="1030" alt="Captura de tela 2026-09-13 134805" src="https://github.com/user-attachments/assets/598f2ebc-a783-4a3b-baec-495d1762b6f5" />
 
 ### 🎥 Vídeo de Apresentação e Tutorial do Projeto
 * **Desenvolvimento Prático:** Realizei a montagem e a configuração completa de toda a infraestrutura da rede do início ao fim no meu simulador.
